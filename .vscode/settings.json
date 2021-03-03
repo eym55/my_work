@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "One Monokai",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.colorCustomizations": {
+
+
+
+        "menu.background": "#242424",
+        "dropdown.background": "#242424",
+        "badge.background": "#242424",
+        "input.background": "#242424",
+        "panel.background": "#242424",
+        "button.background": "#242424",
+        "editor.background": "#242424",
+        "sideBar.background": "#242424",
+        "minimap.background": "#242424",
+        "checkbox.background": "#242424",
+        "editor.selectionHighlightBorder": "#757575",
+        "editor.findMatchHighlightBorder": "#757575"
+                
+            },
+            "workbench.preferredDarkColorTheme": "One Monokai",
+            "workbench.preferredHighContrastColorTheme": "One Monokai",
+            "workbench.preferredLightColorTheme": "One Monokai"
+}
