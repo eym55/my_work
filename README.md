@@ -1,2 +1,2 @@
 # my_work
-Projects from my time at Tulane. 
+Some miscellanous projects and scripts from my time at Tulane. 
